@@ -1,2 +1,2 @@
-# Websockets Extra Credit Assignment Server
+# Websockets Extra Credit Server
 ## author: Jacob Werzinsky
